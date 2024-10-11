@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Sup 👋</h1>
+  <h1>Let's tinker 🤟</h1>
   <a href="https://git.io/streak-stats">
      <img src="https://streak-stats.demolab.com?user=StefanAngelovski&theme=dark" />
   </a>
